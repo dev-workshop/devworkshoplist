@@ -24,20 +24,21 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
 2. CD into the directory in terminal or open up the project in your favorite IDE that has a terminal window. Whichever you use just make sure you are in the project directory.
 3. Once that is done run the command below. This will load all the node_modules needed for this project.
 
-
+```
     npm install
-
+```
 
 4. Next you need to serve your app. Run this code and start the server. 
 
-
+```
     ionic serve
+```
 
 5. Once your project starts in your browser you are ready to get the rest of the directories in your project. The way you do this is to restore the state. DO NOT RUN THIS COMMANS IN THE TERMINAL WINDOW THAT IS RUNNING THE SERVER YOU JUST STARTED.  You must either open a new terminal or quit the server.
  
- 
+ ```
      ionic state restore
- 
+ ```
  
  
  6. The last thing you need to do is open your app.module.ts file located in `src/app` and add your Firebase credentials there. I left the everything there for you to see what you need to replace. You can get this information from Firebase. Click the Overview button in the top left corner of your devworkshoplist database and then click on the Add Firebase to your web app round button. This will bring up your configuration information. DO NOT CLICK COPY. Instead copy everything inside the var config brackets. Then replace the code I left with your own. 
@@ -52,9 +53,11 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
   1. Open terminal and CD into the directory you want your project to be created. 
   2. Once there you need to create a blank project. 
   
-  
+  ```
       ionic start name_of_your_project blank --v2
       ionic serve
+ ```
+      
  3. This will create almost all you need to run your app. Here are the commands to add pages and providers
  
  ```
