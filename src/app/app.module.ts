@@ -8,11 +8,11 @@ import {Data} from "../providers/data";
 import {AngularFireModule} from 'angularfire2';
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyBoKyBQTK8XkLhMN1LcbOMsKT1To6iPQpw",
-    authDomain: "devworkshoplist-51447.firebaseapp.com",
-    databaseURL: "https://devworkshoplist-51447.firebaseio.com",
-    storageBucket: "devworkshoplist-51447.appspot.com",
-    messagingSenderId: "816528714414"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 
 @NgModule({
