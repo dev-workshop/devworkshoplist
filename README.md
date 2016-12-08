@@ -58,7 +58,7 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
  3. This will create almost all you need to run your app. Here are the commands to add pages and providers
  
  ```
-     //Creating pages
+      //Creating pages
      ionic g page Intro
      ionic g page Checklist 
      
@@ -86,7 +86,6 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
      ionic plugin add cordova-plugin-crosswalk-webview
      
      ionic plugin add https://github plugin address
-
 ```
 
 That is all you need to get a new project running with Firebase installed. 
