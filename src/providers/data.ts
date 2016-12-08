@@ -22,7 +22,6 @@ export class Data {
 
     removeChecklist(checklistID):void {
         this.checklists.remove(checklistID);
-        this.checklists.update(checklistID, {title: "new title"});
     }
 
 }
