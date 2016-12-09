@@ -51,7 +51,7 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
  
 2. The last thing you need to do is open your app.module.ts file located in `src/app` and add your Firebase credentials there. I left the everything there for you to see what you need to replace. You can get this information from Firebase. Click the Overview button in the top left corner of your devworkshoplist database and then click on the Add Firebase to your web app round button. This will bring up your configuration information. DO NOT CLICK COPY. Instead copy everything inside the var config brackets. Then replace the code I left with your own. 
   
-That should get this app and running with your own Firebase server. 
+That should get this app up and running with your own Firebase server. 
   
 
 ### Here are some commands to start a new project and also some helper commands. 
