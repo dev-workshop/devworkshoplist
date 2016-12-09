@@ -13,6 +13,7 @@ There are a few things you have to do in order to get this project up and runnin
 
 1. Once you get that done you will need to click on the Rules tab and change the read and write to true. Make it look like the images below. 
 
+![alt text][logo]
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
