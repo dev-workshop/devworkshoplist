@@ -25,8 +25,7 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
 1. Clone this repository to your local machine
 1. CD into the directory in terminal or open up the project in your favorite IDE that has a terminal window. Whichever you use just make sure you are in the project directory.
 1. Once that is done run the command below. This will load all the node_modules needed for this project.
-```
-    npm install
+``` npm install 
 ```
 1. Next you need to serve your app. Run this code and start the server. 
 ```
