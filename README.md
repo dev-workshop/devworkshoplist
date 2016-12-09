@@ -27,15 +27,19 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
 
 3. Once that is done run the command below. This will load all the node_modules needed for this project.
 
+
 ``` 
     npm install 
 ```
 
+
 4. Next you need to serve your app. Run this code and start the server. 
+
 
 ```
     ionic serve
 ```
+
 
 5. Once your project starts in your browser you are ready to get the rest of the directories in your project. The way you do this is to restore the state. DO NOT RUN THIS COMMANS IN THE TERMINAL WINDOW THAT IS RUNNING THE SERVER YOU JUST STARTED.  You must either open a new terminal or quit the server.
 
