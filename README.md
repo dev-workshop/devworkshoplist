@@ -28,9 +28,9 @@ There are a few steps when setting up this Ionic 2 app on your machine. Everythi
 2. Once that is done run the command below. This will load all the node_modules needed for this project.
 
 
-``` 
+    ``` 
     npm install 
-```
+    ```
 
 
 2. Next you need to serve your app. Run this code and start the server. 
